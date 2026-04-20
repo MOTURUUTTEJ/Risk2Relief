@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+
+# Python cache (common local tooling)
+__pycache__/
+*.py[cod]
+
+# Node dependency cache (if docs tooling is added later)
+node_modules/
