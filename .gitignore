@@ -1,0 +1,53 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.next/
+out/
+coverage/
+.npm/
+.pnpm-store/
+.yarn/
+.vite/
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+
+# Java / JVM
+.gradle/
+target/
+*.class
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Misc temporary files
+*.tmp
+*.swp
+*.swo
